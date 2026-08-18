@@ -91,7 +91,7 @@ export default function Footer() {
                   className="text-white/60 transition-colors hover:text-white"
                   data-cursor="hover"
                 >
-                  hello@aftero.com
+                  {/* hello@aftero.com */}
                 </a>
               </li>
             </ul>
